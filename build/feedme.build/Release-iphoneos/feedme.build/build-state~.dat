@@ -2,31 +2,31 @@ Tfeedme
 v5
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Info.plist feedme/feedme-Info.plist
+cProcessInfoPlistFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Info.plist feedme/feedme-Info.plist
 cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/feedme.app/ResourceRules.plist
-cProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme normal armv7
-cLd /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme normal armv7s
-cCreateUniversalBinary /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"
-cGenerateDSYMFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme
-cCopyStringsFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/en.lproj/InfoPlist.strings feedme/en.lproj/InfoPlist.strings
-cCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default-568h@2x.png feedme/Default-568h@2x.png
-cCompileXIB /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/en.lproj/ViewController.xib
-cCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default@2x.png feedme/Default@2x.png
-cCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default.png feedme/Default.png
-cProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
-cProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
-cTouch /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
-cCodeSign /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-cValidate /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
+cProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o /Users/youshoulong/Downloads/feedme/feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o /Users/youshoulong/Downloads/feedme/feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o /Users/youshoulong/Downloads/feedme/feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o /Users/youshoulong/Downloads/feedme/feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme normal armv7s
+cLd /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme normal armv7
+cCreateUniversalBinary /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"
+cGenerateDSYMFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme
+cCopyPNGFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default@2x.png feedme/Default@2x.png
+cCopyStringsFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/en.lproj/InfoPlist.strings feedme/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default.png feedme/Default.png
+cCopyPNGFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default-568h@2x.png feedme/Default-568h@2x.png
+cCompileXIB /Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xib
+cProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
+cTouch /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
+cCodeSign /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
+cValidate /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
 c0000000050ED385D0000000000000110
@@ -72,152 +72,6 @@ N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 c0000000051B4C1F50000000000001B73
 t1370800629
 s7027
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-t1381118680
-s408
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM
-t1381118672
-s102
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default-568h@2x.png
-t1381118673
-s7014
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default.png
-t1381118673
-s3688
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default@2x.png
-t1381118673
-s6316
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Info.plist
-t1381118671
-s1032
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/PkgInfo
-t1381118671
-s8
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/ResourceRules.plist
-t1381118671
-s485
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
-t1381118673
-s7944
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/en.lproj/InfoPlist.strings
-t1381118673
-s42
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/en.lproj/ViewController.nib
-t1381118673
-s862
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme
-t1381118680
-s60784
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o
-t1381118672
-s89888
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o
-t1381118672
-s67616
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme
-t1381118672
-s17548
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme.LinkFileList
-c0000000052523C94000000000000018B
-t1381121172
-s395
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o
-t1381118672
-s3400
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o
-t1381118672
-s89888
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o
-t1381118672
-s67616
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme
-t1381118672
-s17552
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme.LinkFileList
-c0000000052523C94000000000000018E
-t1381121172
-s398
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o
-t1381118672
-s3400
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/com.apple.build-tools.platform.validate
-t2
-s0
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
-t1381118673
-s719
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m
-c000000005252324F00000000000008F6
-t1381118543
-s2294
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/Default-568h@2x.png
-c0000000051B1755C00000000000048A2
-t1370584412
-s18594
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/Default.png
-c0000000051B1755C000000000000198C
-t1370584412
-s6540
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/Default@2x.png
-c0000000051B1755C0000000000003EEB
-t1370584412
-s16107
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m
-c000000005252324F00000000000001E4
-t1381118543
-s484
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/en.lproj/InfoPlist.strings
-c000000005252324F000000000000002D
-t1381118543
-s45
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/en.lproj/ViewController.xib
-c000000005252324F0000000000001782
-t1381118543
-s6018
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/feedme-Prefix.pch
-c000000005252324F000000000000013B
-t1381118543
-s315
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m
-c000000005252324F0000000000000147
-t1381118543
-s327
 
 N/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 t2
@@ -317,15 +171,10 @@ N/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.
 t2
 s0
 
-N/Users/youshoulong/Downloads/feedme/feedme/AppDelegate.h
-c00000000000000000000000000000000
-t2
-s0
-
 N/Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005252324F00000000000008F6
+t1381118543
+s2294
 
 N/Users/youshoulong/Downloads/feedme/feedme/Default-568h@2x.png
 c0000000051B1755C00000000000048A2
@@ -342,15 +191,10 @@ c0000000051B1755C0000000000003EEB
 t1370584412
 s16107
 
-N/Users/youshoulong/Downloads/feedme/feedme/ViewController.h
-c00000000000000000000000000000000
-t2
-s0
-
 N/Users/youshoulong/Downloads/feedme/feedme/ViewController.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005252324F00000000000001E4
+t1381118543
+s484
 
 N/Users/youshoulong/Downloads/feedme/feedme/en.lproj/InfoPlist.strings
 c000000005252324F000000000000002D
@@ -371,9 +215,9 @@ i<UIKit/UIKit.h>
 i<Foundation/Foundation.h>
 
 N/Users/youshoulong/Downloads/feedme/feedme/main.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005252324F0000000000000147
+t1381118543
+s327
 
 N/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision
 c00000000525231AF0000000000001F08
@@ -381,14 +225,6 @@ t1381118383
 s7944
 
 N/var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth
 t2
 s0
 
@@ -403,15 +239,7 @@ s1168
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7b3110147402b841^728b4d147402b841^---0#1#0#--18"Check dependencies36"1BFCDA41-071C-4AF0-B6EB-8525AB2CD7F4-
-
-CCodeSign /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-s402813973.064358
-e402813979.741648
-r1
-xCodeSign
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"CodeSign build/Release-iphoneos/feedme.appb29c10157402b841^72dcbd1b7402b841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/0000000000000000^1110"CodeSign build/Release-iphoneos/feedme.app    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/codesign --force --sign 4429f8d853284db518ab462a5974212fa3e5dcda --resource-rules=/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/ResourceRules.plist --entitlements /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app36"B4A832F8-AAB7-4E7E-A567-FC9FDD896B66-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8508604f6a02b841^2c299b4f6a02b841^---0#1#0#--18"Check dependencies36"2E8450CE-B1CD-4A49-84DC-0217AC0251EB-
 
 CCodeSign /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 s402811473.360743
@@ -420,19 +248,6 @@ r1
 xCodeSign
 x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"CodeSign build/Release-iphoneos/feedme.appcd735c516a02b841^9b8f7b586a02b841^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/0000000000000000^1058"CodeSign build/Release-iphoneos/feedme.app    cd /Users/youshoulong/Downloads/feedme    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/codesign --force --sign 4429f8d853284db518ab462a5974212fa3e5dcda --resource-rules=/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/ResourceRules.plist --entitlements /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app36"1E9D2520-0436-405F-A436-E0883493BE87-
-
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.730873
-e402813972.848390
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.mdb52bb147402b841^2b2fd9147402b841^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m0000000000000000^3700"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o36"65098465-C561-4270-9153-53A1EA06CF58-
 
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.466240
@@ -447,19 +262,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m039377506a02b841^99babb506a02b841^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m0000000000000000^3531"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o feedme/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.dia -c /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/AppDelegate.o36"E4351EEC-FBA2-47D9-A42B-35C8BC32786B-
 
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.730896
-e402813972.834306
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m6951bb147402b841^24b8d5147402b841^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m0000000000000000^3718"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o36"E0F1F195-E9A1-4760-9BBC-65E6FD738CD7-
-
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o /Users/youshoulong/Downloads/feedme/feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.466286
 e402811472.700529
@@ -472,19 +274,6 @@ xarmv7
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/youshoulong/Downloads/feedme/feedme/ViewController.mde8f77506a02b841^f354b3506a02b841^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/youshoulong/Downloads/feedme/feedme/ViewController.m0000000000000000^3549"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o feedme/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.dia -c /Users/youshoulong/Downloads/feedme/feedme/ViewController.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/ViewController.o36"939C04C7-F0F3-425B-A33C-3788DE4F9BF2-
-
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.730891
-e402813972.781112
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.ma050bb147402b841^5ef6c7147402b841^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m0000000000000000^3658"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o36"F9349BAD-8500-4340-BDCD-323A47BD59D8-
 
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o /Users/youshoulong/Downloads/feedme/feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.466322
@@ -499,19 +288,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/youshoulong/Downloads/feedme/feedme/main.meb8c77506a02b841^91bab1506a02b841^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/youshoulong/Downloads/feedme/feedme/main.m0000000000000000^3489"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o feedme/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.dia -c /Users/youshoulong/Downloads/feedme/feedme/main.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/main.o36"FDB18D0C-ED2A-44BE-814B-8620B76B80B5-
 
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.739530
-e402813972.859322
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m70b2bd147402b841^6afbdb147402b841^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m0000000000000000^3707"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o36"FC717645-4955-4D8C-AD83-A9D76331F039-
-
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.455006
 e402811472.722625
@@ -524,19 +300,6 @@ xarmv7s
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m2ba474506a02b841^a0fdb8506a02b841^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m0000000000000000^3538"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o feedme/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/AppDelegate.o36"57E092E4-0DE3-4D44-97B3-653947277D9B-
-
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.741392
-e402813972.840852
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m8d08be147402b841^0741d7147402b841^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m0000000000000000^3725"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o36"6F5671B0-114E-4DEC-A4BB-29FD1701E5FA-
 
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o /Users/youshoulong/Downloads/feedme/feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.454967
@@ -551,19 +314,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/youshoulong/Downloads/feedme/feedme/ViewController.m889e74506a02b841^d2fcb1506a02b841^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/youshoulong/Downloads/feedme/feedme/ViewController.m0000000000000000^3556"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o feedme/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.dia -c /Users/youshoulong/Downloads/feedme/feedme/ViewController.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/ViewController.o36"03742C4F-E059-42F2-A8A2-16EB49453947-
 
-CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.739525
-e402813972.797409
-r1
-xCompileC
-xbuild/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m95b9bd147402b841^af21cc147402b841^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m0000000000000000^3665"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/main.m -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o36"37EA3BA2-C012-4783-A731-6C00A47115D6-
-
 CCompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o /Users/youshoulong/Downloads/feedme/feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811472.454997
 e402811472.692455
@@ -577,9 +327,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/youshoulong/Downloads/feedme/feedme/main.m7fa474506a02b841^f949b1506a02b841^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/youshoulong/Downloads/feedme/feedme/main.m0000000000000000^3496"CompileC build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o feedme/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch -MMD -MT dependencies -MF /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.dia -c /Users/youshoulong/Downloads/feedme/feedme/main.m -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/main.o36"B0D6C98A-7046-469F-AD47-61EF87412DC2-
 
-CCompileXIB /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/en.lproj/ViewController.xib
-r0
-
 CCompileXIB /Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xib
 s402811472.999554
 e402811473.293865
@@ -588,15 +335,6 @@ xCompileXIB
 x/Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xib
 o2013-10-07 12:04:33.226 Interface Builder Cocoa Touch Tool[43208:f07] CFPreferences: user home directory at file://localhost/Users/youshoulong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xibe3feff506a02b841^473a4b516a02b841^-244"2013-10-07 12:04:33.226 Interface Builder Cocoa Touch Tool[43208:f07] CFPreferences: user home directory at file://localhost/Users/youshoulong/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xib0000000000000000^1111"CompileXIB feedme/en.lproj/ViewController.xib    cd /Users/youshoulong/Downloads/feedme    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/en.lproj/ViewController.nib /Users/youshoulong/Downloads/feedme/feedme/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"D9C8C9AB-87C7-4C97-B7BE-C505DB4466F0-
-
-CCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default-568h@2x.png feedme/Default-568h@2x.png
-r0
-
-CCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default.png feedme/Default.png
-r0
-
-CCopyPNGFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Default@2x.png feedme/Default@2x.png
-r0
 
 CCopyPNGFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default-568h@2x.png feedme/Default-568h@2x.png
 s402811472.999453
@@ -625,9 +363,6 @@ x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default@2
 xfeedme/Default@2x.png
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile build/Release-iphoneos/feedme.app/Default@2x.png feedme/Default@2x.png85edff506a02b841^e88428516a02b841^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/youshoulong/Downloads/feedme/feedme/Default@2x.png0000000000000000^859"CopyPNGFile "build/Release-iphoneos/feedme.app/Default@2x.png" "feedme/Default@2x.png"    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/youshoulong/Downloads/feedme/feedme/Default@2x.png" "/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Default@2x.png"36"2E1D7D0D-079A-427B-866E-AFE66249CD0E-
 
-CCopyStringsFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/en.lproj/InfoPlist.strings feedme/en.lproj/InfoPlist.strings
-r0
-
 CCopyStringsFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/en.lproj/InfoPlist.strings feedme/en.lproj/InfoPlist.strings
 s402811472.999102
 e402811473.001900
@@ -646,16 +381,6 @@ x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 xbuild/Release-iphoneos/feedme.app/ResourceRules.plist
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release-iphoneos/feedme.app/ResourceRules.plist70d09e4f6a02b841^52d69f4f6a02b841^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/ResourceRules.plist000000000080d041^1128"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/feedme.app/ResourceRules.plist    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app36"84CF6A9C-C2A9-45D3-ACDC-B7DEE25C6FC7-
 
-CCreateUniversalBinary /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"
-s402813972.956005
-e402813972.967643
-r1
-xCreateUniversalBinary
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme
-xnormal
-xarmv7 armv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Create universal binary /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme1adef4147402b841^b4b0f7147402b841^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme0000000000000000^977"CreateUniversalBinary build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    lipo -create /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme -output /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme36"01857CBC-207E-4832-B96B-EF0B8A5EBFBE-
-
 CCreateUniversalBinary /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"
 s402811472.919702
 e402811472.928850
@@ -666,15 +391,6 @@ xnormal
 xarmv7 armv7s
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Create universal binary /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme3a92eb506a02b841^11c8ed506a02b841^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme000000000080d041^925"CreateUniversalBinary build/Release-iphoneos/feedme.app/feedme normal "armv7 armv7s"    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    lipo -create /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme -output /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme36"85EEBDBC-2CF4-4920-84EF-510733B46BE0-
 
-CGenerateDSYMFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme
-s402813972.974354
-e402813973.006095
-r1
-xGenerateDSYMFile
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Generate /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM43adf9147402b841^eb8e01157402b841^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM/0000000000000000^902"GenerateDSYMFile build/Release-iphoneos/feedme.app.dSYM build/Release-iphoneos/feedme.app/feedme    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/feedme -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app.dSYM36"238CC4FE-39B9-4C06-AE30-AA5E49FB26FB-
-
 CGenerateDSYMFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme
 s402811472.935876
 e402811472.990978
@@ -683,26 +399,6 @@ xGenerateDSYMFile
 x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM
 x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM77baef506a02b841^25b0fd506a02b841^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM000000000080d041^863"GenerateDSYMFile build/Release-iphoneos/feedme.app.dSYM build/Release-iphoneos/feedme.app/feedme    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/feedme -o /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app.dSYM36"05EB8E02-CEC7-4982-8BED-BCFB89FC86C1-
-
-CLd /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme normal armv7
-s402813972.855219
-e402813972.949093
-r1
-xLd
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme
-xnormal
-xarmv7
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme8319db147402b841^01f9f2147402b841^---0#0#0#--1439"Ld build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme normal armv7    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -filelist /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme36"E9B724AF-6DF8-427D-B96C-ADA76D8A53A0-
-
-CLd /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme normal armv7s
-s402813972.865653
-e402813972.949160
-r1
-xLd
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme
-xnormal
-xarmv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedmea8c4dd147402b841^ab04f3147402b841^---0#0#0#--1444"Ld build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme normal armv7s    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -filelist /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme36"8E635D2C-C3EF-44E0-9F0B-ABBAA5F1B796-
 
 CLd /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7/feedme normal armv7
 s402811472.740431
@@ -723,9 +419,6 @@ x/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.
 xnormal
 xarmv7s
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedmee945bd506a02b841^3acae9506a02b841^---0#0#0#--1379"Ld build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme normal armv7s    cd /Users/youshoulong/Downloads/feedme    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -filelist /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/Objects-normal/armv7s/feedme36"4BE689C8-63F3-4A12-8DA9-67F003CA6DD3-
-
-CProcessInfoPlistFile /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/Info.plist feedme/feedme-Info.plist
-r0
 
 CProcessInfoPlistFile /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/Info.plist feedme/feedme-Info.plist
 s402811471.619255
@@ -749,32 +442,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile feedme/feedme-Prefix.pch81eca14f6a02b841^e59775506a02b841^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/youshoulong/Downloads/feedme/feedme/feedme-Prefix.pch0000000000000000^3572"ProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.dia -c /Users/youshoulong/Downloads/feedme/feedme/feedme-Prefix.pch -o /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-atusxqzyckelmzcyhzlbfbrcsqqb/feedme-Prefix.pch.d36"8959E966-BF01-4B6A-AA70-8CF9D748980E-
 
-CProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.320800
-e402813972.724175
-r1
-xProcessPCH
-x/var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth
-xfeedme/feedme-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile feedme/feedme-Prefix.pchca4f52147402b841^f661b9147402b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/feedme-Prefix.pch0000000000000000^3702"ProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7 -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/feedme-Prefix.pch -o /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dcfmpfxhqjpathabltiugceipxrz/feedme-Prefix.pch.d36"66FE794E-3E58-414D-861D-46E31B363246-
-
-CProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402813972.320807
-e402813972.732956
-r1
-xProcessPCH
-x/var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth
-xfeedme/feedme-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile feedme/feedme-Prefix.pchd34d52147402b841^ada2bb147402b841^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/feedme-Prefix.pch0000000000000000^3705"ProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.dia -c /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/feedme-Prefix.pch -o /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-dhhyueyrafupyfewiadhpfaihggc/feedme-Prefix.pch.d36"279038E3-05CE-4841-BD3D-98C3594DEB81-
-
 CProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s402811471.631850
 e402811472.448564
@@ -788,9 +455,6 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile feedme/feedme-Prefix.pch4be9a14f6a02b841^91d472506a02b841^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/youshoulong/Downloads/feedme/feedme/feedme-Prefix.pch0000000000000000^3575"ProcessPCH /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.pth feedme/feedme-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/youshoulong/Downloads/feedme    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-generated-files.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-own-target-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-all-target-headers.hmap -iquote /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme-project-headers.hmap -I/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources/armv7s -I/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/DerivedSources -F/Users/youshoulong/Downloads/feedme/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.dia -c /Users/youshoulong/Downloads/feedme/feedme/feedme-Prefix.pch -o /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gd/5qw0h0vs0wsbb3y6tcmqbgv00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/feedme-Prefix-ebacukiwzqqvwvaxnikllbtyztyo/feedme-Prefix.pch.d36"F9309E65-592C-43D0-88E9-833F8E62C758-
 
-CProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
-r0
-
 CProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
 s402811473.312895
 e402811473.315668
@@ -799,9 +463,6 @@ xProcessProductPackaging
 x/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision
 x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection199"ProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" build/Release-iphoneos/feedme.app/embedded.mobileprovision2b3050516a02b841^70ce50516a02b841^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision0000000000000000^962"ProcessProductPackaging "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" build/Release-iphoneos/feedme.app/embedded.mobileprovision    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-productPackagingUtility "/Users/youshoulong/Library/MobileDevice/Provisioning Profiles/4D154E3B-8366-4CF9-A70B-65BECA6F0440.mobileprovision" -o /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app/embedded.mobileprovision36"F7477DC7-9EA2-433F-8AD4-53E7999D7A24-
-
-CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/youshoulong/Documents/iosWorkSpace/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
-r0
 
 CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
 s402811473.348275
@@ -812,14 +473,6 @@ x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 x/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection206"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/feedme.build/Release-iphoneos/feedme.build/feedme.xcentab5b59516a02b841^4a5d5a516a02b841^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent000000000080d041^1002"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/youshoulong/Downloads/feedme/build/feedme.build/Release-iphoneos/feedme.build/feedme.xcent36"D2AE3812-CD55-4842-87D9-37B4BFAE6455-
 
-CTouch /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-s402813973.039005
-e402813973.047709
-r1
-xTouch
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Touch /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app62120a157402b841^a8360c157402b841^---0#0#0#--669"Touch build/Release-iphoneos/feedme.app    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app36"E8EBE5CD-D886-4188-A3D7-D043F2DC538D-
-
 CTouch /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 s402811473.324979
 e402811473.335104
@@ -827,17 +480,6 @@ r1
 xTouch
 x/Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app605753516a02b841^fcc855516a02b841^---0#0#0#--643"Touch build/Release-iphoneos/feedme.app    cd /Users/youshoulong/Downloads/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/youshoulong/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/youshoulong/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app36"5640BECC-586E-4645-863B-06AB2250C760-
-
-CValidate /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-s402813979.750018
-e402813981.599578
-r1
-xValidate
-x/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app
-owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
-oUnable to validate your application. - (null)
-o
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Validate build/Release-iphoneos/feedme.app5935c01b7402b841^f27d991d7402b841^-255"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)1(21%IDEActivityLogMessage2@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)192"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57402813981#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Validate Warning--0#0#0#-19%DVTDocumentLocation4@99"file://localhost/Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app/0000000000000000^813"Validate build/Release-iphoneos/feedme.app    cd /Users/youshoulong/Documents/iosWorkSpace/feedme    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/youshoulong/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/youshoulong/.rvm/bin:/Users/youshoulong/.rbenv/shims:/Users/youshoulong/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/youshoulong/Documents/iosWorkSpace/feedme/build/Release-iphoneos/feedme.app36"DC16385A-5251-4B50-9F6D-5E2E33F0DEC2-
 
 CValidate /Users/youshoulong/Downloads/feedme/build/Release-iphoneos/feedme.app
 s402811480.491157

@@ -1,2 +1,3 @@
-dependencies: /Users/youshoulong/Downloads/feedme/feedme/ViewController.m \
-  /Users/youshoulong/Downloads/feedme/feedme/ViewController.h
+dependencies: \
+  /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.m \
+  /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.h

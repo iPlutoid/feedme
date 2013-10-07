@@ -1,3 +1,4 @@
-dependencies: /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.m \
-  /Users/youshoulong/Downloads/feedme/feedme/AppDelegate.h \
-  /Users/youshoulong/Downloads/feedme/feedme/ViewController.h
+dependencies: \
+  /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.m \
+  /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/AppDelegate.h \
+  /Users/youshoulong/Documents/iosWorkSpace/feedme/feedme/ViewController.h
