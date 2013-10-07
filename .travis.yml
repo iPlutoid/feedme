@@ -7,6 +7,7 @@ after_script:
 - ./scripts/travis/remove-key.sh
 env:
   global:
-  - APPNAME="Earn-Your-Metals"
+  - APPNAME="feedme"
   - DEVELOPER_NAME="iPhone Developer: Peiying Wen (EWMAMWZHRL)"
   - PROFILE_UUID="b926bd9e36f8b695f39ec8ced5bdb3530089fe28"
+  - secure: R327E6nsv2XMyWn41Gyjo4/cl4RchNgzkRKE/odjRCYBFAv8gbdl80L7i0nd/48GywiRD+mLb2B8skx5lH0P9NDqVxsH2Dc5iAaauf3oqwDvo+3yalrHFShntHS2EU4KLzWSTEO1ZM3yjDgMJa1yVbnzSIWZ4HFUcWiz095aOD0=
